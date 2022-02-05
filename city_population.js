@@ -1,5 +1,4 @@
 document.getElementById("choices_country").addEventListener("change", info);
-document.getElementById("url_sub_btn").addEventListener("click", info2);
 
 function info(event) {
     var xhttp = new XMLHttpRequest();
